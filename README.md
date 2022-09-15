@@ -3,7 +3,7 @@ Programs learned in course Low Level Assembly programming Using Nasm and gcc at 
 INSTRUCTOR - PROF.NITIN PRAKASH PATIL
 
 # Software Needed
-NASM (Netwide Assembler) https://www.nasm.us/\
+NASM (Netwide Assembler) https://www.nasm.us/ \
 GCC (c compiler)
 # How to run
 
