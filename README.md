@@ -13,7 +13,8 @@ $ gcc -m32 filename.o
 $ ./a.out
 ```
 
-```bash
 # for adding debugging information
+```bash
+
 $ nasm -felf32 filename.asm -g Fdwarf
 ```
