@@ -5,7 +5,7 @@ INSTRUCTOR - PROF.NITIN PRAKASH PATIL
 #Software Needed
 NASM (Netwide Assembler) https://www.nasm.us/ 
 GCC (c compiler)
-#How to Run
+# How to run:
 $ nasm -felf32 filename.asm
 $ gcc -m32 filename.o
 $ ./a.out
