@@ -17,4 +17,5 @@ $ ./a.out
 ```bash
 
 $ nasm -felf32 filename.asm -g Fdwarf
+$ gcc -m32 filename.o -g Fdwarf
 ```
